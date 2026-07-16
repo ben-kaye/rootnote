@@ -1,0 +1,19 @@
+{
+  "name": "graph-knowledge",
+  "version": "0.1.0",
+  "description": "Your codebase, with a memory.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rootnote",
+    "shortDescription": "Your codebase, with a memory.",
+    "longDescription": "Give Codex grounded, traceable context from the repository-local Markdown your team owns.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use Rootnote to find or organize knowledge in this repository's vault."
+  },
+  "mcpServers": "./.mcp.json"
+}
